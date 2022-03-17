@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there 👋  
 
-- 🔭 I’m currently working on vision transformer, lottery ticket hypothesis and video object tracking
+- 🔭 I’m currently working on
+- :airplane: vision transformer
+- :airplane: lottery ticket hypothesis
+- :airplane: video object tracking
+
+
+
 
 
 <!--
