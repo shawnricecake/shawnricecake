@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on vision transformer, lottery ticket hypothesis and video object tracking
+
+
 <!--
 **shen494157765/shen494157765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
