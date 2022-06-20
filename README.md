@@ -1,9 +1,6 @@
 ### Hi there 👋  
 
-- 🔭 I’m currently working on
-- :airplane: vision transformer
-- :airplane: lottery ticket hypothesis
-- :airplane: video object tracking
+- 🔭 I’m currently enrolled in an internship.
 
 
 
