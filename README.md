@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-- 🔭 I’m currently enrolled in an internship.
+- 🔭 I’m currently working on NAS theory.
 
 
 
