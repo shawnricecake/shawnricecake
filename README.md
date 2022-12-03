@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-- 🔭 I’m currently working on NAS theory.
+- 🔭 I’m currently working on diffusion model.
 
 
 
