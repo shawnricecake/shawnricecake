@@ -1,6 +1,7 @@
 ### Hi there 👋  
 
 - 🔭 I’m currently working on diffusion model.
+- 🔭 Accepted by CVPR 2023: [DeepMAD](https://arxiv.org/pdf/2303.02165.pdf)
 
 
 
