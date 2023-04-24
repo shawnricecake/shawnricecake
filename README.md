@@ -1,8 +1,7 @@
 ### Hi there 👋  
 
-- 🔭 I’m currently working on diffusion model.
 - :sunny: Accepted by CVPR 2023: [DeepMAD](https://arxiv.org/pdf/2303.02165.pdf).
-
+- :sunny: Accepted by IJCAI 2023: [DataLotteryViT]([https://arxiv.org/pdf/2303.02165.pdf](https://arxiv.org/pdf/2211.01484.pdf)).
 
 
 
