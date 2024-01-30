@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 - 👨‍🎓 I am a PhD student at Northeastern University.
-- 🔭 My research focuses on the efficient AI on hardware devices.
+- 🔭 My research focuses on efficient AI for hardware devices.
 
 
 
