@@ -2,6 +2,7 @@
 
 - 👨‍🎓 I am a PhD student at Northeastern University.
 - 🔭 My research focuses on Efficient AI with Soft/Hardware Co-Design.
+- 🏠 Homepage: https://shawnricecake.github.io
 
 
 
